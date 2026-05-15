@@ -31,7 +31,21 @@ export default function Home() {
         >
           Parikshit Pandiya
         </h1>
-  
+            <p
+  style={{
+    color: "#cccccc",
+    fontSize: "18px",
+    marginTop: "15px",
+    maxWidth: "700px",
+    lineHeight: "30px"
+  }}
+>
+  I am a cinematic video editor specializing in reels,
+  travel videos, commercial edits, and professional
+  storytelling content. I create high-quality edits
+  that help creators and brands stand out on social media.
+</p>
+              
             <div style={{ marginTop: "30px" }}>
   <a
     href="https://instagram.com/parikshit_pandiya"
