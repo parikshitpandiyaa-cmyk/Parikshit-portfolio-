@@ -90,7 +90,7 @@ export default function Home() {
 </div>
 
 
-        <p style={{ color: "RGB" }}>
+        <p style={{ color: "yellow" }}>
           Cinematic Video Editor
         </p>
       </div>
