@@ -100,8 +100,7 @@ export default function Home() {
           My Reels
         </h2>
 
-        <video
-<h2
+        <h2
   style={{
     color: "red",
     fontSize: "40px",
@@ -111,6 +110,8 @@ export default function Home() {
 >
   My Editz
 </h2>
+            <video
+
           src="/reel1.mp4"
           controls
           style={{
