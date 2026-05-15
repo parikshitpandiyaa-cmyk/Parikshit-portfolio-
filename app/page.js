@@ -31,6 +31,49 @@ export default function Home() {
         >
           Parikshit Pandiya
         </h1>
+            <div style={{ marginTop: "30px" }}>
+  <a
+    href="https://instagram.com/parikshit_pandiya"
+    style={{
+      backgroundColor: "red",
+      color: "white",
+      padding: "12px 20px",
+      marginRight: "10px",
+      textDecoration: "none",
+      borderRadius: "10px"
+    }}
+  >
+    Instagram
+  </a>
+
+  <a
+    href="https://wa.me/918107285850"
+    style={{
+      backgroundColor: "red",
+      color: "white",
+      padding: "12px 20px",
+      marginRight: "10px",
+      textDecoration: "none",
+      borderRadius: "10px"
+    }}
+  >
+    WhatsApp
+  </a>
+
+  <a
+    href="mailto:parikshitpandiyaa@gmail.com"
+    style={{
+      backgroundColor: "red",
+      color: "white",
+      padding: "12px 20px",
+      textDecoration: "none",
+      borderRadius: "10px"
+    }}
+  >
+    Email
+  </a>
+</div>
+
 
         <p style={{ color: "#cccccc" }}>
           Cinematic Video Editor
@@ -75,45 +118,3 @@ export default function Home() {
     </div>
   );
 }
-<div style={{ marginTop: "30px" }}>
-  <a
-    href="https://instagram.com/parikshit_pandiya"
-    style={{
-      backgroundColor: "red",
-      color: "white",
-      padding: "12px 20px",
-      marginRight: "10px",
-      textDecoration: "none",
-      borderRadius: "10px"
-    }}
-  >
-    Instagram
-  </a>
-
-  <a
-    href="https://wa.me/918107285850"
-    style={{
-      backgroundColor: "red",
-      color: "white",
-      padding: "12px 20px",
-      marginRight: "10px",
-      textDecoration: "none",
-      borderRadius: "10px"
-    }}
-  >
-    WhatsApp
-  </a>
-
-  <a
-    href="mailto:parikshitpandiyaa@gmail.com"
-    style={{
-      backgroundColor: "red",
-      color: "white",
-      padding: "12px 20px",
-      textDecoration: "none",
-      borderRadius: "10px"
-    }}
-  >
-    Email
-  </a>
-</div>
