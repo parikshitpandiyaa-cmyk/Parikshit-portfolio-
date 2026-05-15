@@ -21,6 +21,20 @@ export default function Home() {
             border: "4px solid white"
           }}
         />
+     <div style={{ marginBottom: "30px" }}>
+  <a
+    href="#edits"
+    style={{
+      color: "white",
+      textDecoration: "none",
+      border: "2px solid red",
+      padding: "10px 20px",
+      borderRadius: "10px"
+    }}
+  >
+    My Editz
+  </a>
+</div>     
           <h1
           style={{
             color: "blue",
