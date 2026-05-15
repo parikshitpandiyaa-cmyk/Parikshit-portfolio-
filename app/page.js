@@ -101,6 +101,16 @@ export default function Home() {
         </h2>
 
         <video
+<h2
+  style={{
+    color: "red",
+    fontSize: "40px",
+    marginTop: "50px",
+    marginBottom: "20px"
+  }}
+>
+  My Editz
+</h2>
           src="/reel1.mp4"
           controls
           style={{
