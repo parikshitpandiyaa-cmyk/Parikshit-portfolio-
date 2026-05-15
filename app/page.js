@@ -35,7 +35,7 @@ export default function Home() {
   <a
     href="https://instagram.com/parikshit_pandiya"
     style={{
-      backgroundColor: "red",
+      backgroundColor: "green",
       color: "white",
       padding: "12px 20px",
       marginRight: "10px",
@@ -49,7 +49,7 @@ export default function Home() {
   <a
     href="https://wa.me/918107285850"
     style={{
-      backgroundColor: "red",
+      backgroundColor: "green",
       color: "white",
       padding: "12px 20px",
       marginRight: "10px",
@@ -63,7 +63,7 @@ export default function Home() {
   <a
     href="mailto:parikshitpandiyaa@gmail.com"
     style={{
-      backgroundColor: "red",
+      backgroundColor: "green",
       color: "white",
       padding: "12px 20px",
       textDecoration: "none",
@@ -81,7 +81,7 @@ export default function Home() {
       </div>
 
       <div style={{ marginTop: "50px" }}>
-        <h2 style={{ color: "yellow" }}>
+        <h2 style={{ color: "white" }}>
           My Reels
         </h2>
 
