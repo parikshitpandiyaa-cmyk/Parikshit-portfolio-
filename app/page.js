@@ -33,7 +33,7 @@ export default function Home() {
         </h1>
             <p
   style={{
-    color: "light blue",
+    color: "lightblue",
     fontSize: "18px",
     marginTop: "15px",
     maxWidth: "700px",
