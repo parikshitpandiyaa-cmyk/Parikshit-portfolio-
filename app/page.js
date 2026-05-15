@@ -25,7 +25,7 @@ export default function Home() {
         <h1
           style={{
             color: "blue",
-            fontSize: "48px",
+            fontSize: "44px",
             marginTop: "20px"
           }}
         >
@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       <div style={{ marginTop: "50px" }}>
-        <h2 style={{ color: "blue" }}>
+        <h2 style={{ color: "yellow" }}>
           My Reels
         </h2>
 
