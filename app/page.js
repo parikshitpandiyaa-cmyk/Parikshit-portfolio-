@@ -18,13 +18,14 @@ export default function Home() {
             height: "220px",
             borderRadius: "50%",
             objectFit: "cover",
-            border: "4px solid yellow"
+            border: "4px solid white"
           }}
         />
 
         <h1
           style={{
             color: "blue",
+            border: "white",
             fontSize: "32px",
             marginTop: "20px"
           }}
