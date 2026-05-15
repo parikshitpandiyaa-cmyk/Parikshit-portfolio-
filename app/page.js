@@ -21,8 +21,17 @@ export default function Home() {
             border: "4px solid white"
           }}
         />
-
-        
+          <h1
+          style={{
+            color: "blue",
+            border: "white",
+            fontSize: "32px",
+            marginTop: "20px"
+          }}
+        >
+          Parikshit Pandiya
+        </h1>
+  
             <div style={{ marginTop: "30px" }}>
   <a
     href="https://instagram.com/parikshit_pandiya"
@@ -37,16 +46,7 @@ export default function Home() {
   >
     Instagram
   </a>
-<h1
-          style={{
-            color: "blue",
-            border: "white",
-            fontSize: "32px",
-            marginTop: "20px"
-          }}
-        >
-          Parikshit Pandiya
-        </h1>
+
   <a
     href="https://wa.me/918107285850"
     style={{
