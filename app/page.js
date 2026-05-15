@@ -97,19 +97,9 @@ export default function Home() {
 
       <div style={{ marginTop: "50px" }}>
         <h2 style={{ color: "white" }}>
-          My Reels
+          My Editz
         </h2>
-
-        <h2
-  style={{
-    color: "red",
-    fontSize: "40px",
-    marginTop: "50px",
-    marginBottom: "20px"
-  }}
->
-  My Editz
-</h2>
+            
             <video
 
           src="/reel1.mp4"
