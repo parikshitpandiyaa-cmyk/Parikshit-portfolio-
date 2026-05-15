@@ -18,13 +18,13 @@ export default function Home() {
             height: "220px",
             borderRadius: "50%",
             objectFit: "cover",
-            border: "4px solid red"
+            border: "4px solid blue"
           }}
         />
 
         <h1
           style={{
-            color: "red",
+            color: "blue",
             fontSize: "48px",
             marginTop: "20px"
           }}
@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       <div style={{ marginTop: "50px" }}>
-        <h2 style={{ color: "red" }}>
+        <h2 style={{ color: "blue" }}>
           My Reels
         </h2>
 
