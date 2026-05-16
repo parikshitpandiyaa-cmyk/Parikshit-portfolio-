@@ -113,7 +113,7 @@ export default function Home() {
       </div>
 
       <div style={{ marginTop: "50px" }}>
-        <h2 id="edits" style={{ color: "white" }}>
+        <h2 style={{ color: "white" }}>
           Top Videos
         </h2>
             
