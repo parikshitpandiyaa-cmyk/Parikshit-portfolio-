@@ -96,6 +96,9 @@ export default function Home() {
         <p style={{ color: "yellow" }}>
           Cinematic Video Editor
         </p>
+
+
+            
             <a
   onClick={() => {
     document.getElementById("edits").style.display = "block";
@@ -115,7 +118,7 @@ export default function Home() {
 
       <div style={{ marginTop: "50px" }}>
         <h2 id="edits" style={{ color: "white" }}>
-          My Editz
+          Top Videos
         </h2>
             
   <div id="edits" style={{ display: "none" }}>        
