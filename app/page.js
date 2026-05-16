@@ -100,7 +100,6 @@ export default function Home() {
   onClick={() => {
     document.getElementById("edits").style.display = "block";
   }}
-    href="#edits"
     style={{
       color: "red",
       textDecoration: "none",
