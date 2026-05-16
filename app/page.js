@@ -91,8 +91,6 @@ export default function Home() {
     Email
   </a>
 </div>
-
-
         <p style={{ color: "yellow" }}>
           Cinematic Video Editor
         </p>            
@@ -105,13 +103,12 @@ export default function Home() {
     textDecoration: "none",
     border: "2px solid white",
     padding: "10px 20px",
-    borderRadius: "10px"
+    borderRadius: "10px",
+    cursor: "pointer"
   }}
 >
   My Editz
 </a>
-      </div>
-
       <div style={{ marginTop: "50px" }}>
         <h2 style={{ color: "white" }}>
           Top Videos
