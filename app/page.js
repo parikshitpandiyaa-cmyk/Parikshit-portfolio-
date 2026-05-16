@@ -95,10 +95,7 @@ export default function Home() {
 
         <p style={{ color: "yellow" }}>
           Cinematic Video Editor
-        </p>
-
-
-            
+        </p>            
             <a
   onClick={() => {
     document.getElementById("edits").style.display = "block";
