@@ -95,22 +95,22 @@ export default function Home() {
 
         <p style={{ color: "yellow" }}>
           Cinematic Video Editor
-              <a
+        </p>
+            <a
   onClick={() => {
     document.getElementById("edits").style.display = "block";
   }}
     href="#edits"
     style={{
-      color: "white",
+      color: "red",
       textDecoration: "none",
-      border: "2px solid red",
+      border: "2px solid white",
       padding: "10px 20px",
       borderRadius: "10px"
     }}
   >
     My Editz
   </a>
-        </p>
       </div>
 
       <div style={{ marginTop: "50px" }}>
