@@ -22,18 +22,7 @@ export default function Home() {
           }}
         />
      <div style={{ marginBottom: "30px" }}>
-  <a
-    href="#edits"
-    style={{
-      color: "white",
-      textDecoration: "none",
-      border: "2px solid red",
-      padding: "10px 20px",
-      borderRadius: "10px"
-    }}
-  >
-    My Editz
-  </a>
+
 </div>     
           <h1
           style={{
@@ -106,6 +95,18 @@ export default function Home() {
 
         <p style={{ color: "yellow" }}>
           Cinematic Video Editor
+              <a
+    href="#edits"
+    style={{
+      color: "white",
+      textDecoration: "none",
+      border: "2px solid red",
+      padding: "10px 20px",
+      borderRadius: "10px"
+    }}
+  >
+    My Editz
+  </a>
         </p>
       </div>
 
