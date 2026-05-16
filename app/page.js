@@ -145,8 +145,8 @@ export default function Home() {
             borderRadius: "20px"
           }}
         />
-          </div>
       </div>
-    </div>
-  );
-}
+      </div>
+      </div>
+        );
+        }
