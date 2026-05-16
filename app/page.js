@@ -118,6 +118,7 @@ export default function Home() {
           My Editz
         </h2>
             
+  <div id="edits" style={{ display: "none" }}>        
             <video
 
           src="/reel1.mp4"
