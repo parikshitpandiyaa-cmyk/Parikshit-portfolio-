@@ -104,7 +104,9 @@ export default function Home() {
     border: "2px solid white",
     padding: "10px 20px",
     borderRadius: "10px",
-    cursor: "pointer"
+    cursor: "pointer",
+    display: "inline-block",
+    marginTop: "20px"
   }}
 >
   My Editz
@@ -148,6 +150,5 @@ export default function Home() {
       </div>
       </div>
       </div>
-
         );
         }
