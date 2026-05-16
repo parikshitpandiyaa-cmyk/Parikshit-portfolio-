@@ -97,7 +97,8 @@ export default function Home() {
           Cinematic Video Editor
         </p>            
             <a
-  onClick={() => {
+  <a
+onClick={() => {
     document.getElementById("edits").style.display = "block";
   }}
     style={{
