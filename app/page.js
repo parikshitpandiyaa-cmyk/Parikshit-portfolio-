@@ -102,9 +102,9 @@ export default function Home() {
             document.getElementById("edits").style.display = "block";
           }}
           style={{
-            color: "red",
+            color: "white",
             textDecoration: "none",
-            border: "2px solid white",
+            border: "2px solid blue",
             padding: "10px 20px",
             borderRadius: "10px",
             cursor: "pointer",
