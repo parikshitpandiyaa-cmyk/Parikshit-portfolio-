@@ -20,13 +20,13 @@ export default function Home() {
           height: "220px",
           borderRadius: "50%",
           objectFit: "cover",
-          border: "4px solid red"
+          border: "4px solid white"
         }}
       />
 
       <h1
         style={{
-          color: "red",
+          color: "blue",
           border: "3px solid white",
           padding: "15px",
           borderRadius: "15px",
@@ -54,7 +54,7 @@ export default function Home() {
         <a
           href="https://instagram.com/parikshit_pandiya"
           style={{
-            backgroundColor: "red",
+            backgroundColor: "green",
             color: "white",
             padding: "12px 20px",
             marginRight: "10px",
@@ -68,7 +68,7 @@ export default function Home() {
         <a
           href="https://wa.me/918107285850"
           style={{
-            backgroundColor: "red",
+            backgroundColor: "green",
             color: "white",
             padding: "12px 20px",
             marginRight: "10px",
@@ -82,7 +82,7 @@ export default function Home() {
         <a
           href="mailto:parikshitpandiyaa@gmail.com"
           style={{
-            backgroundColor: "red",
+            backgroundColor: "green",
             color: "white",
             padding: "12px 20px",
             textDecoration: "none",
