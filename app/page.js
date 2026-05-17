@@ -49,8 +49,7 @@ export default function Home() {
           lineHeight: "30px"
         }}
       >
-        I am a cinematic video editor specializing in reels,
-        travel videos, commercial edits, and storytelling content.
+        I am a cinematic video editor specializing in reels, travel videos, commercial edits, and professional storytelling content. I create high-quality edits that help creators and brands stand out on social media.
       </p>
 
       <div style={{ marginTop: "25px" }}>
